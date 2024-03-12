@@ -108,7 +108,7 @@ class Help extends Open_new_acc{
     Help(){
         System.out.println("-----------------------------------------------------------------------------------------------");
         System.out.println("Home / Help -->");
-        System.out.println(" Mr."+full_name+"......");
+        System.out.println(" Mr./Miss"+full_name+"......");
         System.out.println("                    ......Please visit our Website WWW.BONWORLD.COM for help.......");
         System.out.println("                            .............. 24 x 7 ...............");
         System.out.println("                              Toll free number : 1800 258 4455");
